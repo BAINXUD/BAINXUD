@@ -1,14 +1,3 @@
-# Facebook: MURSALIN AHAMED KHAN ALIN
-# Github:  MAK-GANG
-######################################################
-#               FUCK YOU TUTUL SC DEC DONE           #
-#                                                    #
-#                       IT'Z MURSALIN HERE           #
-#                                                    #
-#       DECRYPT USING MAK-DEC_.py                    #
-#                                                    #
-#               Today's Date 21-2-2023               #
-######################################################
 import os, base64, sys, time
 from pprint import pformat
 alphabet = [
@@ -51,10 +40,10 @@ logo="""\033[0;92m
 ║   \033[0;92m ██║\033[0;91m    ╚██████╔╝\033[0;94m    ██║\033[0;93m    ╚██████╔╝\033[0;95m  ███████║ ║
 ║   \033[0;92m ╚═╝\033[0;91m     ╚═════╝\033[0;94m     ╚═╝\033[0;93m     ╚═════╝\033[0;95m   ╚══════╝ ║
 \033[0;94m╠═══════════════════════════════════════════════════║
-\033[0;93m╠══[Author:=======================> \33[1;38mBAINXUD\33[1;38m       ║\033[1;31m
-╠══[Facebook:=====================> BAINXUD      ║  \033[1;97m
-╠══[Github:=======================> \33[1;38mBAIBXUD      ║\33[1;34m
-╠══[Whatsapp:=====================> 01608843956     ║\33[1;35m
+\033[0;93m╠══[Author:=======================> \33[1;38mBAINXUD\33[1;38m          ║\033[1;31m
+╠══[Facebook:=====================> BAINXUD           ║  \033[1;97m
+╠══[Github:=======================> \33[1;38mBAIBXUD           ║\33[1;34m
+╠══[Whatsapp:=====================> NONE     ║\33[1;35m
 ╠══[TOOLS:========================> Script Encrypt  ║ \33[1;32m
 ╠══[VERSION:======================> 1.0.0           ║\033[1;35m
 \033[0;92m╚═══════════════════════════════════════════════════╝\033[1;31m
@@ -246,7 +235,7 @@ def encryptem():
 def main():
     os.system("clear")
     slowprint(logo)
-    print(yellow+'╔═════════════['+white+' MAIN  MENU '+yellow+' ]═════ ')
+    print(yellow+'╔═════════════['+white+' MAIN  MENU '+yellow+' ]')
     print(yellow+'║')
     print(yellow+'║'+green+' ['+white+'1'+green+']'+yellow+' Encrypt'+cyan+' Bash/Shell')
     print(yellow+'║'+green+' ['+white+'2'+green+']'+yellow+' Decrypt'+cyan+' Not Working')
